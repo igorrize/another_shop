@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  under_sale: false
+  price: 1
+  sale_price: 1
+  sale_text: MyString
+
+two:
+  name: MyString
+  under_sale: false
+  price: 1
+  sale_price: 1
+  sale_text: MyString
