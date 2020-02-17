@@ -1,7 +1,7 @@
 <template>
   <div>
     <p class="preview">
-      Welcome to our shop
+      test shop
     </p>
   </div>
 </template>
